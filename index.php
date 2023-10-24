@@ -26,6 +26,8 @@ include("connection.php");
         </form>
     </div>
 
+    <h1>Test</h1>
+
 
     <script>
         function isvalid() {
