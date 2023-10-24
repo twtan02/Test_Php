@@ -33,7 +33,6 @@ include("connection.php");
     <h1>Test4</h1>
     <h1>Test5</h1>
 
-    
     <h1>Test 7</h1>
 
     <script>
