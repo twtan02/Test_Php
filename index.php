@@ -30,8 +30,7 @@ include("connection.php");
     <h1>Test</h1>
     <h1>Test2</h1>
     <h1>Test3</h1>
-    <h2>Test4</h1>
-    <h3>Test5</h3>
+
 
     <script>
         function isvalid() {
