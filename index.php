@@ -25,9 +25,6 @@ include("connection.php");
 
         </form>
     </div>
-
-
-
     
     <h1>Testing</h1>
     <h1>Test</h1>
