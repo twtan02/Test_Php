@@ -28,6 +28,18 @@ include("connection.php");
 
     
     <h1>Testing</h1>
+    <h1>Test</h1>
+    <h1>Test2</h1>
+    <h1>Test3</h1>
+    <h1>Test4</h1>
+    <h1>Test5</h1>
+
+
+    <h1>Test 7</h1>
+    <h1>Test 8 </h1>
+    <h1>Test 9 </h1>
+    <h1>Testing</h1>
+
 
     <script>
         function isvalid() {
