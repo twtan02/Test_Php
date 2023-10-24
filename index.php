@@ -41,10 +41,6 @@ include("connection.php");
     <h1>Testing2</h1>
     <h1>Testing3</h1>
 
-    
-
-
-    
 
     <script>
         function isvalid() {
