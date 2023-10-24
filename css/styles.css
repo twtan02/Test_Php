@@ -1,0 +1,50 @@
+body {
+    /* background-color: blueviolet; */
+    background-color: #f1f1f1;
+
+}
+
+#form {
+    background-color: rgb(255, 255, 255);
+    width: 25%;
+    border-radius: 4px;
+    margin: 120px auto;
+    padding: 50px;
+    /* box-shadow: 10px 10px 5px rgb(82, 11, 77); */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+    /* Add transition */
+}
+
+#form:hover {
+    transform: scale(1.05);
+    /* Add hover effect */
+}
+
+#btn {
+    /* color:rgb(255, 255, 255); */
+    /* background-color: rgb(108, 22, 189); */
+    background: #e0761e;
+    color: #ffffffee;
+
+    padding: 10px;
+    font-size: large;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+    /* Add transition */
+}
+
+
+/* change color upon hover */
+#btn:hover {
+    background-color: rgb(82, 11, 77);
+    /* Change color on hover */
+}
+
+@media screen and (max-width: 570px) {
+    #form {
+        width: 65%;
+        margin-left: none;
+        padding: 40px;
+    }
+}
