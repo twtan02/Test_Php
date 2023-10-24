@@ -36,7 +36,8 @@ include("connection.php");
 
     <h1>Test 7</h1>
     <h1>Test 8 </h1>
-    
+    <h1>Test 9 </h1>
+
     <script>
         function isvalid() {
             var user = document.form.user.value;
