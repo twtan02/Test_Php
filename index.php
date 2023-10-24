@@ -26,7 +26,7 @@ include("connection.php");
         </form>
     </div>
 
-    
+
 
     
     <h1>Testing</h1>
@@ -42,6 +42,7 @@ include("connection.php");
     <h1>Test 9 </h1>
     <h1>Testing</h1>
     <h1>Testing2</h1>
+    <h1>Testing3</h1>
 
     
 
